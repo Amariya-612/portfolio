@@ -76,13 +76,13 @@ const PROJECTS = [
     "linkLabel": "GitHub"
   },
   {
-    "id": 1787561222795,
-    "title": "Enterprise Network 2",
-    "description": "this is simple enterprise networking project",
+    "id": 1787729619406,
+    "title": "test",
+    "description": "test",
     "image": "Enterprise network topology.PNG",
     "category": "network",
     "link": "https://github.com/Amariya-612/Enterprise-Network",
-    "linkLabel": "Github"
+    "linkLabel": "GitHub"
   }
 ];
 // ============================================================
