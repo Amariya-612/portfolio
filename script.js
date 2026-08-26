@@ -79,7 +79,7 @@ const PROJECTS = [
     "id": 1787729619406,
     "title": "test",
     "description": "test",
-    "image": "Enterprise network topology.PNG",
+    "image": "p2.jpg",
     "category": "network",
     "link": "https://github.com/Amariya-612/Enterprise-Network",
     "linkLabel": "GitHub"
