@@ -76,10 +76,10 @@ const PROJECTS = [
     "linkLabel": "GitHub"
   },
   {
-    "id": 1787557981962,
-    "title": "networking",
-    "description": "test",
-    "image": "pi.png",
+    "id": 1787561222795,
+    "title": "Enterprise Network 2",
+    "description": "this is simple enterprise networking project",
+    "image": "Enterprise network topology.PNG",
     "category": "network",
     "link": "https://github.com/Amariya-612/Enterprise-Network",
     "linkLabel": "Github"
